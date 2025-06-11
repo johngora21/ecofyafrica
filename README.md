@@ -1,30 +1,33 @@
-# Ecofy color scheme
+# Ecofy Africa
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+Transforming Agriculture with Smart Technology
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/johnjohngora-4994s-projects/v0-ecofy-color-scheme)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/VJ9xgnJzB3P)
+## About
 
-## Overview
+Ecofy Africa is a technology-driven agricultural platform empowering farmers across Tanzania with AI-driven tools for sustainable and profitable farming.
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+## Features
 
-## Deployment
+- Smart IoT sensors for soil analysis
+- AI-powered crop disease detection
+- Real-time weather monitoring
+- Financial services integration
+- Climate-smart farming recommendations
 
-Your project is live at:
+## Tech Stack
 
-**[https://vercel.com/johnjohngora-4994s-projects/v0-ecofy-color-scheme](https://vercel.com/johnjohngora-4994s-projects/v0-ecofy-color-scheme)**
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Shadcn UI
 
-## Build your app
+## Getting Started
 
-Continue building your app on:
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Run the development server: `npm run dev`
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-**[https://v0.dev/chat/projects/VJ9xgnJzB3P](https://v0.dev/chat/projects/VJ9xgnJzB3P)**
+## License
 
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+MIT
