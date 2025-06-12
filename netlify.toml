@@ -1,5 +1,5 @@
 [build]
-  command = "npm ci && npm run build"
+  command = "npm install --legacy-peer-deps && npm run build"
   publish = ".next"
 
 [build.environment]
@@ -11,6 +11,9 @@
   NETLIFY_USE_YARN = "false"
   NETLIFY_USE_NPM = "true"
   NPM_CONFIG_PACKAGE_LOCK = "true"
+  NPM_CONFIG_USE_PNPM = "false"
+  NPM_CONFIG_USE_YARN = "false"
+  NPM_CONFIG_USE_NPM = "true"
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
